@@ -46,10 +46,10 @@ h1{
 }
 .winnercontainer{
     text-align: center;
-    width: 100vw;
+    width: 70%;
     height: 70vh;
     font-size: 10vh;
-    margin: 40vh auto;
+    margin:  auto;
     font-weight: bolder;
 }
 .hide{
